@@ -1,0 +1,80 @@
+
+
+
+
+
+
+<header id="header" class="pdy xs-pdy1 pdx1 xl-pdx2 dfx aic z3">
+<label for="btn-menu" class="btn btn-link btn-menu mar lg-dn">
+<i class="fa-bars fal fz5"></i>
+</label>
+<div class="logo xs-mar3">
+<a href="https://canaistv.xyz/" class="custom-logo-link" rel="home" aria-current="page"><img width="134" height="27" src="https://canaistv.xyz/wp-content/uploads/2022/11/assistir-tv-online-canais-tv.png" class="custom-logo" alt=""></a><figure> <a href="#!"> </a> </figure> </div>
+<nav class="menu dfx aic"><ul class="lg-dfx fz5"><li id="menu-item-816" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-816"><a href="/" aria-current="page">INÍCIO</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26"><a href="/assistirtvonline/">ASSISTIR TV ONLINE</a>
+<ul class="sub-menu">
+<li id="menu-item-6044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6044"><a href="/categoria/canais-de-noticias/">Canais de Noticias</a></li>
+<li id="menu-item-6042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6042"><a href="/categoria/canais-infantis/">Canais Infantis</a></li>
+<li id="menu-item-6047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6047"><a href="/categoria/esportes-ao-vivo/">Esportes Ao Vivo</a></li>
+<li id="menu-item-6045" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6045"><a href="/categoria/filmes-e-series-online/">Filmes e Séries</a></li>
+<li id="menu-item-6048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6048"><a href="/categoria/variedades/">Variedades</a></li>
+<li id="menu-item-6043" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6043"><a href="/categoria/canais-de-documentarios-online/">Documentários</a></li>
+<li id="menu-item-6040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6040"><a href="/lutas-ao-vivo/">Lutas Ao Vivo</a></li>
+<li id="menu-item-6039" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6039"><a href="/categoria/canais-abertos/">Canais Abertos</a></li>
+<li id="menu-item-6035" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6035"><a href="/categoria/realities/">Realities Ao Vivo</a></li>
+<li id="menu-item-7494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7494"><a href="/categoria/canais-internacionais-ao-vivo-online/">Canais Internacionais</a></li>
+<li id="menu-item-6041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6041"><a href="/categoria/canais-adultos-online/">Canais Adultos</a></li>
+</ul>
+</li>
+<li id="menu-item-7625" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7625"><a href="/futebol-ao-vivo-online-gratis-live/">FUTEBOL AO VIVO</a>
+<ul class="sub-menu">
+<li id="menu-item-7690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7690"><a href="/copa-do-mundo-2022-ao-vivo-online-live/">Copa do Mundo</a></li>
+</ul>
+</li>
+<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a href="/player/filmes">FILMES ONLINE</a>
+<ul class="sub-menu">
+<li id="menu-item-7631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7631"><a href="/player/categoria/drama/">Drama</a></li>
+<li id="menu-item-7633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7633"><a href="/player/categoria/thriller/">Thriller</a></li>
+<li id="menu-item-7635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7635"><a href="/player/categoria/acao/">Ação</a></li>
+<li id="menu-item-7637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7637"><a href="/player/categoria/comedia/">Comédia</a></li>
+<li id="menu-item-7639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7639"><a href="/player/categoria/aventura/">Aventura</a></li>
+<li id="menu-item-7600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7600"><a href="/player/categoria/terror/">Terror</a></li>
+<li id="menu-item-7643" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7643"><a href="/player/categoria/romance/">Romance</a></li>
+<li id="menu-item-7645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7645"><a href="/player/categoria/crime/">Crime</a></li>
+<li id="menu-item-7605" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7605"><a href="/player/categoria/animacao/">Animação</a></li>
+<li id="menu-item-7649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7649"><a href="/player/categoria/fantasia/">Fantasia</a></li>
+<li id="menu-item-7651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7651"><a href="/player/categoria/ficcao-cientifica/">Ficção científica</a></li>
+<li id="menu-item-7653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7653"><a href="/player/categoria/guerra/">Guerra</a></li>
+<li id="menu-item-7655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7655"><a href="/player/categoria/documentario/">Documentário</a></li>
+<li id="menu-item-7657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7657"><a href="/player/categoria/familia/">Família</a></li>
+<li id="menu-item-7659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7659"><a href="/player/categoria/misterio/">Mistério</a></li>
+<li id="menu-item-7661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7661"><a href="/player/categoria/historia/">História</a></li>
+<li id="menu-item-7663" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7663"><a href="/player/categoria/musica/">Música</a></li>
+</ul>
+</li>
+<li id="menu-item-7628" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7628"><a href="/player/series/">SÉRIES ONLINE</a></li>
+<li id="menu-item-7629" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7629"><a href="/categoria/assistir-bbb-ao-vivo-online-live/">BBB AO VIVO</a></li>
+</ul></nav>
+<div class="search maa mar0 xs-mal0">
+<label for="btn-search" class="btn btn-link btn-search xs-dn pdx0">
+<i class="fa-search fal fz5"></i>
+</label>
+<form action="https://canaistv.xyz" class="dn xs-db anm-a por">
+<div class="frm-ico left" id="s-delete">
+<input aria-label="Procurar" type="search" id="s" name="s" autocomplete="off" placeholder="Procurar" class="brdp">
+<i class="fa-search far"></i>
+</div>
+<div class="results poa secondary-bg brd1 mat dn">
+<ul class="list pd" id="s-results"></ul>
+</div>
+</form> </div>
+<div class="userbx dfx xs-maa xs-mar0">
+</div>
+
+
+
+
+
+
+</header>
+
